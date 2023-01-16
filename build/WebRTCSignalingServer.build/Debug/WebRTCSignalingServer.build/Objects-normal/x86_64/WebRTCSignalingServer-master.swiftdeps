@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1673834806, 349771022]
+build_end_time: [1673834807, 284824848]
+inputs:
+  "/Users/nil2/Documents/learning/WebRTCSignalingServer/WebRTCSignalingServer/ViewController.swift": [1673834753, 789201259]
+  "/Users/nil2/Documents/learning/WebRTCSignalingServer/WebRTCSignalingServer/WebSocketClient.swift": [1673834630, 666391372]
+  "/Users/nil2/Documents/learning/WebRTCSignalingServer/WebRTCSignalingServer/WebSocketServer.swift": [1673834630, 683753013]
+  "/Users/nil2/Documents/learning/WebRTCSignalingServer/WebRTCSignalingServer/main.swift": [1673834780, 420843124]
